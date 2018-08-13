@@ -1,5 +1,5 @@
 # CNN Visualizations in PyTorch
-Implementations of various CNN visualization Techniques in PyTorch. These notebooks are implemented in Google Colaboratory.
+Implementations of various CNN Visualization Techniques in PyTorch. These notebooks are implemented in Google Colaboratory.
 
 ## Requirements: 
 You will need a Google Colaboratory Account, all rest dependencies are satisfied within the notebook itself.
