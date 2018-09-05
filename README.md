@@ -1,4 +1,4 @@
-# CNN Visualizations in PyTorch
+# ConvNets Visualizer in PyTorch
 Implementations of various CNN Visualization Techniques in PyTorch. These notebooks are implemented in Google Colaboratory.
 
 ## Requirements: 
@@ -21,11 +21,7 @@ You will need a Google Colaboratory Account, all rest dependencies are satisfied
 - [ ] Gradient Ascent
 
 ### Deep Dream
-<img src="https://raw.githubusercontent.com/saranshkarira/cnn-visualizations-in-pytorch/master/src/test.gif" width="400" height="400" />
-
-**Most Beautiful Result(Subjective)**
-
-<img src="https://raw.githubusercontent.com/saranshkarira/cnn-visualizations-in-pytorch/master/src/deep_dream/results/chame.jpg" width="450" height="450" />
+<img src="https://raw.githubusercontent.com/saranshkarira/cnn-visualizations-in-pytorch/master/src/test.gif" width="400" height="400" /><img src="https://raw.githubusercontent.com/saranshkarira/cnn-visualizations-in-pytorch/master/src/deep_dream/results/chame.jpg" width="400" height="400" />
 
 ### Total Activations of Each Layer
 <img src="https://raw.githubusercontent.com/saranshkarira/cnn-visualizations-in-pytorch/master/src/total_activation_each_layer.png" width="500" height="800" />
