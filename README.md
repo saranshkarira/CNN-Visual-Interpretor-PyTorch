@@ -20,7 +20,7 @@ You will need a Google Colaboratory Account, all rest dependencies are satisfied
 - [ ] GradCam
 - [ ] Gradient Ascent
 
-### Deep Dream
+### Deep Dream (Wait for gif to load)
 <img src="https://raw.githubusercontent.com/saranshkarira/cnn-visualizations-in-pytorch/master/src/test.gif" width="400" height="400" /><img src="https://raw.githubusercontent.com/saranshkarira/cnn-visualizations-in-pytorch/master/src/deep_dream/results/chame.jpg" width="400" height="400" />
 
 ### Total Activations of Each Layer
